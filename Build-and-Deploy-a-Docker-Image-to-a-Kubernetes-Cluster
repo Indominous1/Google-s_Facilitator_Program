@@ -13,3 +13,10 @@ Solution-
    > kubectl expose deployment echo-web --type=LoadBalancer --port=80 --target-port=8000
    
    > kubectl get svc
+
+
+                                                  DO FOLLOW MY INSTRUCTIONS WHILE FOLLOWING FROM THIS FILE!
+
+                                                                    Thank you!!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                                <<<<End of lab>>>>
