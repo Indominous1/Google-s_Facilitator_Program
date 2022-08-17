@@ -1,0 +1,12 @@
+Solution-
+
+  > kubectl apply -f tf-serving/configmap-resnet101.yaml
+  
+  > kubectl apply -f tf-serving/deployment-resnet101.yaml
+  
+  
+                                               DO FOLLOW MY INSTRUCTIONS WHILE FOLLOWING FROM THIS FILE!
+
+                                                                  Thank you!!
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+                                                               <<<<End of lab>>>>
